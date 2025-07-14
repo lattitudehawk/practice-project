@@ -14,7 +14,7 @@ const Header = () => {
   <li className="border-white border-2 rounded-3xl px-4 py-1 hover:text-white  cursor-pointer hover:px-5 duration-250 ">Contact us</li>
 </ul>
 
-        <button>Sign up</button>
+        <button className="border-white border-2 rounded-3xl px-4 py-1 hover:text-blue-400  cursor-pointer hover:px-3 duration-250 ">Sign up</button>
     </div>
   )
 }
