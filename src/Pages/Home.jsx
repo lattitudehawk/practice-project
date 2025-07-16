@@ -4,7 +4,7 @@ const Home = () => {
   const [isHovered, setIshovered] = useState(false);
 
   return (
-    <div className="min-h-screen w-full bg-[url('C:\Users\Dell\Desktop\project\project_a\src\assets\graphics\landscape.jpg')]">
+    <div className="min-h-screen w-full bg-[url('\landscape.jpg')]">
         <div className='flex-col flex min-h-screen justify-center items-center  '>
           <h2 className='text-3xl text-black text-center w-200 bg-white/1'>
             "Travel isn’t always pretty. It isn’t always comfortable. But that’s okay. The journey changes you."
